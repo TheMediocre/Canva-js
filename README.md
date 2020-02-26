@@ -1,24 +1,26 @@
 ---
-description: discord-canvas is a package to simplifie the usage of canvas for Discord !
+description: >-
+  discord-canvas est un module pour simplifier l’utilisation de Canvas pour
+  Discord !
 ---
 
 # Introduction
 
-## Easy to use !!
+## Facile d'utilisation !!
 
-Do you want to develop a discord bot using the Discord.js bookstore and you want to integrate nice image in Canvas? discord-canvas is made for you! You can create great welcome images, goodbye images and other fun images using the many easy-to-use features!  
+Vous voulez développer un bot Discord en utilisant la librairie Discord.js et vous voulez intégrer de belles images en Canvas ? discord-canvas est fait pour vous ! Vous pouvez créer des images de bienvenue, des images d’au-revoir et d’autres images amusantes en utilisant nos nombreuses fonctionnalités faciles à utiliser!
 
-## Example
+## Exemple
 
-![Welcome Card ](.gitbook/assets/welcome-image-1.png)
+![Carte de bienvenue](.gitbook/assets/welcome-image-1.png)
 
 ## discord-canvas
 
-* Easy to use !
-* Fully customisable !
-* Updated regularly !
+* Facile à utiliser !
+* Entièrement personnalisable !
+* Mis à jour régulièrement !
 
-If you have a request for a new feature you can publish an issue on Github.  
+Si vous avez une requête ou une idée pour améliorer discord-canvas vous pouvez publier une issue sur Github !  
   
-Made by xixi52 with ❤️
+Fait par xixi52 avec ❤️
 
