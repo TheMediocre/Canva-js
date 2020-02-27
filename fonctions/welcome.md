@@ -8,7 +8,7 @@ description: Faites une image unique qui vous correspond !
 
 Voici un exemple des customisations possibles:
 
-![](../.gitbook/assets/welcome-image-5.png)
+![C&apos;est un exemple](../.gitbook/assets/welcome-image-5.png)
 
 ```javascript
 const canvas = require("discord-canvas"),
