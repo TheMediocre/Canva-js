@@ -20,6 +20,12 @@ Vous voulez développer un bot Discord en utilisant la librairie Discord.js et v
 * Entièrement personnalisable !
 * Mis à jour régulièrement !
 
+Pour télécharger le module utilisez:
+
+```bash
+$ npm install discord-canvas
+```
+
 Si vous avez une requête ou une idée pour améliorer discord-canvas vous pouvez publier une issue sur Github !  
   
 Fait par xixi52 avec ❤️
