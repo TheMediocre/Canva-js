@@ -28,5 +28,7 @@ $ npm install discord-canvas
 
 Si vous avez une requête ou une idée pour améliorer discord-canvas vous pouvez publier une issue sur Github !  
   
+[Documentation](https://www.discord-canvas.net)
+  
 Fait par xixi52 avec ❤️
 
