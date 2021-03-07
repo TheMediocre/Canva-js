@@ -89,8 +89,3 @@ message.channel.send(attachment);
 ## Contributing
 
 If you have a request for a new feature you can open an issue on Github. Pull requests are appreciated!
-
-## Credits
-
-Made by [xixi52](https://github.com/xixi52) with ❤️  
-Thanks to [Androz2091](https://github.com/Androz2091) for his help !
